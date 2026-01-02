@@ -26,3 +26,7 @@ Charles
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Observações
+Este projeto é um fork de um repositório de referência, utilizado para fins educacionais.
+O foco do desafio é o empacotamento de um projeto Python.
